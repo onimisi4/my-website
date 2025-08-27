@@ -714,6 +714,15 @@ footer span {
   }
   .profiles {
     grid-column: 2 / -1;
-    grid-row: 19 / 23;
+    grid-row: 19 / 22;
+  }
+
+  footer {
+    grid-column: 1/-1;
+    grid-row: 27;
+  }
+
+  footer p {
+    font-size: 1.5rem;
   }
 }
